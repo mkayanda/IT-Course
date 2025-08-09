@@ -9,9 +9,9 @@ A comprehensive study plan for the **Techworld with Nana: IT Beginners Course**.
 | Status | Date              | Topic                                               | Sub-topics / Activities                                                                                                      |
 | :----: | :---------------- | :-------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
 | **-** | **Week 1** |                                                     |                                                                                                                              |
-| `[ ]`  | August 8, 2025    | **Introduction to the Course** | - Welcome & Course Overview <br> - How to Access Course Resources <br> - Administrative FAQs                                    |
-| `[ ]`  | August 9, 2025    | **Introduction to Software Development Workflow** | - Software Development Workflow <br> - What is Agile and Scrum                                                                  |
-| `[ ]`  | August 10, 2025   | **Project Management with Jira** | - Backlog and Scrum Board in Jira                                                                                            |
+| `[x]`  | August 8, 2025    | **Introduction to the Course** | - Welcome & Course Overview <br> - How to Access Course Resources <br> - Administrative FAQs                                    |
+| `[X]`  | August 9, 2025    | **Introduction to Software Development Workflow** | - Software Development Workflow <br> - What is Agile and Scrum                                                                  |
+| `[X]`  | August 10, 2025   | **Project Management with Jira** | - Backlog and Scrum Board in Jira                                                                                            |
 | **-** | **Week 2** |                                                     |                                                                                                                              |
 | `[ ]`  | August 11, 2025   | **Web Development Fundamentals** | - How Websites Work <br> - What is JS                                                                                         |
 | `[ ]`  | August 12, 2025   | **JavaScript Basics** | - Variables & Data Types <br> - How to Execute JS                                                                             |
